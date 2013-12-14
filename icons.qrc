@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>open_folder_yellow.png</file>
+        <file>N_Logo.png</file>
+        <file>arrow_left.ico</file>
+        <file>arrow_right.ico</file>
+        <file>player_play (1).ico</file>
+        <file>button_pause.ico</file>
+        <file>button_play.ico</file>
+        <file>arrow_expand.ico</file>
+        <file>Tatice-Cristal-Intense-Dossier-vert.ico</file>
+    </qresource>
+</RCC>
